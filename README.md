@@ -3,7 +3,6 @@
 A full-stack ASP.NET Core MVC web application that allows **Patients** to request appointments, **Doctors** to approve/reject and manage schedules, and **Admins** to manage doctors/patients/appointments. Built with **C#**, **Razor Views**, **SQL Server**, **ADO.NET**, **stored procedures**, and **Bootstrap**.
 
 ## Screenshots
-> Add images to a `/screenshots` folder and update paths below.
 
 - Patient Dashboard  
   ![Patient Dashboard](image)
