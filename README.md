@@ -6,13 +6,13 @@ A full-stack ASP.NET Core MVC web application that allows **Patients** to reques
 > Add images to a `/screenshots` folder and update paths below.
 
 - Patient Dashboard  
-  ![Patient Dashboard](screenshots/patient_dashboard.png)
+  ![Patient Dashboard](image)
 
 - Doctor Schedule  
-  ![Doctor Schedule](screenshots/doctor_schedule.png)
+  ![Doctor Schedule](image)
 
 - Admin Dashboard  
-  ![Admin Dashboard](screenshots/admin_dashboard.png)
+  ![Admin Dashboard](image)
 
 ## Features
 ### Patient
